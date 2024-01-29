@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\11_zadatak\11_zadatak\Source.c(198,3): warning C4047: 'return': 'CountryPosition' differs in levels of indirection from 'int'
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\11_zadatak\11_zadatak\Source.c(121): warning C4716: 'printAllCountriesFromHash': must return a value
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\11_zadatak\11_zadatak\Source.c(369): warning C4716: 'printCountryList': must return a value
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\11_zadatak\11_zadatak\Source.c(387): warning C4716: 'printTownList': must return a value
+  11_zadatak.vcxproj -> C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\11_zadatak\x64\Debug\11_zadatak.exe
