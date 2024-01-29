@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(94,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(137,2): warning C4013: 'OslobodiMemoriju' undefined; assuming extern returning int
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(144,34): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(178,16): warning C4133: '=': incompatible types - from 'pozicijaD' to 'pozicijaG'
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(185,3): warning C4133: 'return': incompatible types - from 'pozicijaG' to 'pozicijaD'
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(188,14): warning C4133: '=': incompatible types - from 'pozicijaD' to 'pozicijaG'
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(191,15): warning C4133: '=': incompatible types - from 'pozicijaD' to 'pozicijaG'
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(195,2): warning C4133: 'return': incompatible types - from 'pozicijaG' to 'pozicijaD'
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(266,4): warning C4033: 'OslobodiMemoriju' must return a value
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(182): warning C4716: 'Povezi': must return a value
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(274): warning C4716: 'OslobodiMemoriju': must return a value
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\10_ZDK\Source.c(239): warning C4716: 'PrintanjeGradova': must return a value
+  10_ZDK.vcxproj -> C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\10_ZDK\x64\Debug\10_ZDK.exe

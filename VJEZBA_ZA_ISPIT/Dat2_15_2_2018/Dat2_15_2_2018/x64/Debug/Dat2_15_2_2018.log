@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Dat2_15_2_2018\Dat2_15_2_2018\Source.c(55,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Dat2_15_2_2018\Dat2_15_2_2018\Source.c(79,6): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Dat2_15_2_2018\Dat2_15_2_2018\Source.c(151): warning C4716: 'PrintanjeListe': must return a value
+  Dat2_15_2_2018.vcxproj -> C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Dat2_15_2_2018\x64\Debug\Dat2_15_2_2018.exe

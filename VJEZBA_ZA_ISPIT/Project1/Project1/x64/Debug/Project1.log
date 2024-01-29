@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Project1\Project1\Source.c(25,7): warning C4101: 'ime': unreferenced local variable
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Project1\Project1\Source.c(68,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Project1\Project1\Source.c(76,6): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Project1\Project1\Source.c(106): warning C4715: 'Pronalazenje': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\Project1\x64\Debug\Project1.exe

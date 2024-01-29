@@ -1,0 +1,5 @@
+Hrvatska 10
+Srbija 20
+Bosna 30
+Slovenija 40
+Amerika 50

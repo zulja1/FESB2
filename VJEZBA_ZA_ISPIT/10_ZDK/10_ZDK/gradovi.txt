@@ -1,0 +1,10 @@
+Split 10
+Chikago 50
+Nis 20
+Sarajevo 30
+Ljubljana 40
+Rogla 40
+Rijeka 10
+Beograd 20
+LosAngeles 50
+Osijek 10

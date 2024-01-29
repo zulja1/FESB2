@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\9_zdk\9_zdk\Source.c(38,6): warning C4101: 'broj': unreferenced local variable
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\9_zdk\9_zdk\Source.c(58,9): warning C4013: 'random' undefined; assuming extern returning int
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\9_zdk\9_zdk\Source.c(131): warning C4715: 'Pronalazenje': not all control paths return a value
+  9_zdk.vcxproj -> C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\9_zdk\x64\Debug\9_zdk.exe
