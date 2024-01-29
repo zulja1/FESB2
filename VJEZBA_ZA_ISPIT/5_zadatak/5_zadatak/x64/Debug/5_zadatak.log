@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\5_zadatak\5_zadatak\Source.c(59,9): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+  5_zadatak.vcxproj -> C:\Users\Luka\Desktop\VJEZBA_ZA_ISPIT\5_zadatak\x64\Debug\5_zadatak.exe
